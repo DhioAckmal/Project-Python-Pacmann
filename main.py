@@ -7,7 +7,7 @@ import sys
 """
 Self Service Cashier.
 
-Tujuan: Merupakan program untuk membantu customer supermarket dalam menambah barang, merubah barang, menghapus barang,
+Merupakan program untuk membantu customer supermarket dalam menambah barang, merubah barang, menghapus barang,
 menampilkan barang, sampai ke pembayaran.
 
 """
