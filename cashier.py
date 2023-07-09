@@ -2,7 +2,13 @@
 import tabulate
 
 shopping_list = []
+"""
+Self Service Cashier Functions.
 
+Merupakan kumpulan function yang berfungsi untuk program self service cashier yang terdiri dari add item, update item, update price, update quantity
+, delete item, show itema, reset transaction, total price, dan checkout.
+
+"""
 #Add Item
 def add_item():
     """
