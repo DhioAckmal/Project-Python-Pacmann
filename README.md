@@ -8,7 +8,7 @@ Namun, Dhio mengalami kendala dalam merealisasikan rencananya tersebut, yakni ke
 ## B.	Flowchart and Requirement
 ### 1.	Flowchart
 <div align="left">
-  <img width="1000" height="600" src="images/Flowchart Project Python Pacmann.png">
+  <img width="1100" height="600" src="images/Flowchart Project Python Pacmann.png">
 </div>
 
 
@@ -65,25 +65,37 @@ Run file main.py dan akan langsung memerintahkan untuk menginput nama user, sete
 2)	Nama item: pasta gigi, qty 3, harga: 15000
   #### b.	Steps: setelah menginput nama, langsung menambahkan nama, quantity, dan juga harga sesuai dengan test case, setelah input maka akan tersimpan ke dalam list.
   #### c.	Result:
+<div align="left">
+  <img width="500" height="400" src="images/Test_Case 1.png">
+</div>
 
 ### 2.	Test Case 2
   #### a.	Instruction: Menggunakan metode delete_item() untuk menghapus item. Item yang ingin dihapuskan adalah pasta gigi.
   #### b.	Steps: ke menu utama lalu memilih no 3 yaitu “Hapus Barang”, setelah itu pada pilihan hapus item pilih no 1 yaitu “Hapus item”, lalu pilih no item yang ingin dihapus, dalam case ini item no 2 yaitu pasta gigi, maka masukkan angka 2 dan item telah terhapus.
   #### c.	Result: 
+<div align="left">
+  <img width="500" height="450" src="images/Test_Case 2.png">
+</div>
 
 ### 3.	Test Case 3
   #### a.	Instruction: Menggunakan metode reset_transaction untuk menghapus semua item.
   #### b.	Steps: Kembali ke menu utama, lalu pilih no 5 yaitu “Reset barang”, lalu ketik “y” pada pilihan “Apakah anda yakin menghapus list belanjaan anda? (y/n)”, maka semua item akan terhapus
   #### c.	Result: 
+<div align="left">
+  <img width="500" height="400" src="images/Test_Case 3.png">
+</div>
 
 ### 4.	Test Case 4
   #### a.	Instruction: Menghitung total belanjaan menggunakan metode total_price(). Sebelum mengeluarkan output total belanja akan menampilkan item yang dibeli
   #### b.	Steps: kembali ke menu utama, lalu pilih no 6 yaitu “Total harga”, lalu akan menampilkan list barang yang sudah ditambahkan sebelumnya, total harga per barang, total keseluruhan harga barang, dan diskon yang didapat.
   #### c.	Result:
+<div align="left">
+  <img width="500" height="400" src="images/Test_Case 4.png">
+</div>
 
 ## D.	Conclusion
 Self service cashier adalah program yang memungkinkan pengunjung supermarket untuk menambah barang, merubah barang (nama, qty, harga), menghapus barang, menampilkan barang, mereset list belanjaan, menampilkan total harga, sampai ke pembayaran.
 
 ## E.	Future Works
-Menggunakan user interface yang lebih menarik, dan dapat menyimpan history belanja dari tiap pengunjung supermarket
+Menggunakan user interface yang lebih menarik, dan dapat menyimpan history belanja dari tiap pengunjung supermarket.
 
