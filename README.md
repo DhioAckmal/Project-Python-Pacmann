@@ -1,4 +1,4 @@
-# Project-Python-Pacmann
+# Project-Python-Pacmann (Self Service Cashier)
 
 ## A.	Problem
 Dhio, seorang pemilik supermarket terkemuka di salah satu kota di Indonesia, memiliki rencana untuk meningkatkan proses bisnisnya dengan mengembangkan sebuah sistem self-service di supermarketnya. Melalui sistem ini, para pelanggan dapat secara langsung memasukkan informasi mengenai barang belanjaan, jumlah barang, serta harga barang yang mereka beli, beserta berbagai fitur lainnya. Dengan adanya sistem ini, Dhio berharap agar pelanggan yang berada di luar kota pun dapat melakukan pembelian barang dari supermarketnya.
