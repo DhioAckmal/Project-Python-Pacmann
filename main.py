@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 import sys
 """
-Self Service Cashier.
+Self-Service Cashier.
 
 Merupakan program untuk membantu customer supermarket dalam menambah barang, merubah barang, menghapus barang,
 menampilkan barang, sampai ke pembayaran.
@@ -20,10 +20,7 @@ print("=" * 60)
 # Input nama customer
 while True:
     name = input("Masukan Nama: ")
-    if name.title():
-        break
-    else:
-        print("Input salah. Please enter alphabetic characters only.")
+    break
 
 # Membuat unique transaction id untuk setiap customer
 transaction_id = "TX" + str(random.randint(100, 999))
