@@ -8,53 +8,53 @@ Namun, Dhio mengalami kendala dalam merealisasikan rencananya tersebut, yakni ke
 ## B.	Flowchart and Requirement
 ### 1.	Flowchart
 <div align="left">
-  <img width="460" height="300" src="images/Flowchart Project Python Pacmann.png">
+  <img width="1000" height="600" src="images/Flowchart Project Python Pacmann.png">
 </div>
 
 
 ### 2.	Requirement
 Terdapat 8 function di program ini, yaitu:
-1)	add_item()
+#### 1)	add_item()
 Tujuan: input dan menambahkan barang ke list shopping_list
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="130" src="images/add_item().png">
 </div>
 
-2)	update_item/qty/price()
+#### 2)	update_item/qty/price()
 Tujuan: merubah nama/jumlah/harga barang
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="200" src="images/update_item or qty or price().png">
 </div>
 
-3)	delete_item()
+#### 3)	delete_item()
 Tujuan: menghapus list belanjaan yang dipilih.
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="110" src="images/delete_item().png">
 </div>
 
-4)	show_item()
+#### 4)	show_item()
 Tujuan: menampilkan list shopping_list dengan format tabel menggunakan
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="120" src="images/show_item().png">
 </div>
 
-5)	reset_transaction()
+#### 5)	reset_transaction()
 Tujuan: menghapus atau reset semua list di shopping_list
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="180" src="images/reset_transaction().png">
 </div>
 
-6)	total_price()
+#### 6)	total_price()
 Tujuan: Menghitung total harga list belanja, menghitung diskon yang didapatkan berdasarkan harga yang dibelanjakan, dan menghitung total harga setelah diskon.
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="120" src="images/total_price().png">
 </div>
 
-7)	checkout()
+#### 7)	checkout()
 Tujuan: menampilkan total harga belanja setelah diskon dan tempat untuk melakukan
 Pembayaran.
 <div align="left">
-  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+  <img width="700" height="120" src="images/checkout().png">
 </div>
 
 ## C.	Test Case
