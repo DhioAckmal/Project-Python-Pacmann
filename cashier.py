@@ -1,3 +1,4 @@
+# Import library
 import tabulate
 
 shopping_list = []
