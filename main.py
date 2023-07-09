@@ -1,3 +1,4 @@
+# Import Library
 from cashier import *
 import tabulate
 import random
