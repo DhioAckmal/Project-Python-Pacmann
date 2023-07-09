@@ -117,7 +117,6 @@ while True:
                 print("Input salah, hanya masukkan angka")
                 continue
 
-            # Execute user's update choice
             if delete_choice == 1:
                 delete_item()
 
@@ -152,7 +151,6 @@ while True:
                 print("Input salah, hanya masukkan angka")
                 continue
 
-            # Execute user's checkout choice
             if checkout_choice == 1:
                 checkout()
                 print("============= Terima kasih telah belanja! ==============")
