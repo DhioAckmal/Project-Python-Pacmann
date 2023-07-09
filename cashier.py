@@ -9,7 +9,7 @@ Merupakan kumpulan function yang berfungsi untuk program self service cashier ya
 , delete item, show itema, reset transaction, total price, dan checkout.
 
 """
-#Add Item
+# Add Item
 def add_item():
     """
     Fungsi add_item
@@ -63,7 +63,7 @@ def add_item():
         print(f"Barang berhasil ditambahkan")
         
 
-#Update Item
+# Update Item
 def update_item():
     """
     Fungsi update_item()
@@ -89,7 +89,7 @@ def update_item():
     print("=" * 60)
     print(tabulate.tabulate(shopping_list, headers='keys'))
 
-#Update Price
+# Update Price
 def update_price():
     """
     Fungsi update_price()
@@ -115,7 +115,7 @@ def update_price():
     print("=" * 60)
     print(tabulate.tabulate(shopping_list, headers='keys'))
 
-#Update Quantity
+# Update Quantity
 def update_qty():
     """
     Fungsi update_qty()
@@ -141,7 +141,7 @@ def update_qty():
     print("=" * 60)
     print(tabulate.tabulate(shopping_list, headers='keys'))
  
-#Delete Item
+# Delete Item
 def delete_item():
     """
     Fungsi delete_item
@@ -173,7 +173,7 @@ def delete_item():
     print(tabulate.tabulate(shopping_list, headers='keys'))
     print("\n")
 
-#Show Items 
+# Show Items 
 def show_items():
     """
     Fungsi show_items
@@ -190,7 +190,7 @@ def show_items():
         # menggunakan library tabulate untuk menampilkan list shopping_list
         print(tabulate.tabulate(shopping_list, headers='keys', tablefmt='fancy_grid'))
    
-#Reset Transaction
+# Reset Transaction
 def reset_transaction():
     """
     Fungsi reset_transaction
@@ -243,7 +243,7 @@ def total_price():
     print(f"Total Harga: Rp. {discounted_price}")
     print("=" * 60)
  
-#Checkout (payment) 
+# Checkout (payment) 
 def checkout():
     """
     Fungsi checkout()
