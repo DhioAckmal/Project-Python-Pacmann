@@ -7,31 +7,55 @@ Namun, Dhio mengalami kendala dalam merealisasikan rencananya tersebut, yakni ke
 
 ## B.	Flowchart and Requirement
 ### 1.	Flowchart
+<div align="left">
+  <img width="460" height="300" src="images/Flowchart Project Python Pacmann.png">
+</div>
+
 
 ### 2.	Requirement
 Terdapat 8 function di program ini, yaitu:
 1)	add_item()
 Tujuan: input dan menambahkan barang ke list shopping_list
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 2)	update_item/qty/price()
 Tujuan: merubah nama/jumlah/harga barang
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 3)	delete_item()
 Tujuan: menghapus list belanjaan yang dipilih.
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 4)	show_item()
 Tujuan: menampilkan list shopping_list dengan format tabel menggunakan
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 5)	reset_transaction()
 Tujuan: menghapus atau reset semua list di shopping_list
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 6)	total_price()
 Tujuan: Menghitung total harga list belanja, menghitung diskon yang didapatkan berdasarkan harga yang dibelanjakan, dan menghitung total harga setelah diskon.
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 7)	checkout()
 Tujuan: menampilkan total harga belanja setelah diskon dan tempat untuk melakukan
 Pembayaran.
-
+<div align="left">
+  <img width="396" height="264" src="images/Flowchart Project Python Pacmann.png">
+</div>
 
 ## C.	Test Case
 Run file main.py dan akan langsung memerintahkan untuk menginput nama user, setelah itu akan langsung memerintahkan untuk menginput nama barang.
