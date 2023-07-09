@@ -1,4 +1,4 @@
-# Import Library
+# Import library
 from cashier import *
 import tabulate
 import random
